@@ -18,4 +18,6 @@
   <li>JavaScript</li>
 </ul>
 
+<h1>Screen Gif</h1>
+
 <img src="./images/ecommercegif.gif"/>
